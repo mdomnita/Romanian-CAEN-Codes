@@ -1,6 +1,6 @@
-# Romanian-CAEN-Codes
+# Romanian-CAEN (NACE) -Codes
 
-Romanian-CAEN-Codes with diacritics.
+Romanian-NACE-Codes with diacritics.
 
 CAEN (Clasificarea Activităților din Economia Națională) table with codes and names in PostgreSQL
 
