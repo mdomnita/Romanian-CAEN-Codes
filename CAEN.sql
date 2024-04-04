@@ -1003,6 +1003,5 @@ VALUES
 ('99','Activități ale organizațiilor și organismelor extrateritoriale'),
 ('990','Activități ale organizatiilor si organismelor extrateritoriale'),
 ('9900','Activități ale organizatiilor si organismelor extrateritoriale');
-CREATE INDEX idx_caen_code ON public.caen (code);
 
 CREATE INDEX IF NOT exists idx_caen_code ON public.caen (code);
